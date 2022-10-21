@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 Also collaborating with [Lentech](https://www.wordsire.com/)
+- 👯 Also collaborating with [Lentech](https://www.lentech.org/)
 
 - 💬 Ask me about **VueJS,PHP,ElasticSearch,Python**
 
