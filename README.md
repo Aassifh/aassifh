@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza AASSIF</h1>
 <h3 align="center">A passionate software engineer from Morocco living in Bordeaux,France</h3>
 
-- 🔭 I’m currently working with [Dynvibe](https://dynvibe.com/)
+- 🔭 I’m currently working with [SnapFeat](https://snapfeat.com/)
 
 - 🌱 I’m currently learning **React**
 
