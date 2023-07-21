@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with [SnapFeat](https://snapfeat.com/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,RL,Unity, ML-agents**
 
 - 👯 Also collaborating with [Lentech](https://www.lentech.org/)
 
