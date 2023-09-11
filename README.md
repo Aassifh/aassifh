@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza AASSIF</h1>
 <h3 align="center">A passionate software engineer from Morocco living in Bordeaux,France</h3>
 
+<a href="https://app.daily.dev/hamzaslamz"><img src="https://api.daily.dev/devcards/813fdab01d9e431c82faa3a3025c8fd4.png?r=707" width="400" alt="Hamza Aassif's Dev Card"/></a>
 - 🔭 I’m currently working with [SnapFeat](https://snapfeat.com/)
 
 - 🌱 I’m currently learning **React,RL,Unity, ML-agents**
